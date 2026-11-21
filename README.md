@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @3p0l
-- 👀 I’m interested in Database Management and Game Development
-- 🌱 I’m currently learning ASP.NET MVC
-
 
 
 
